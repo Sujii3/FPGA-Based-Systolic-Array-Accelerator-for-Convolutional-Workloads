@@ -1,0 +1,1 @@
+-g2005-sv ../verilog_tb/top_ok_core_tb.v ../verilog/core.v ../verilog/fifo_* ../verilog/ififo.v ../verilog/mac* ../verilog/ofifo.v ../verilog/sfu.v ../verilog/sram_* ../verilog/core_fsm.sv ../verilog/rom.v
